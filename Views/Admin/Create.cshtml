@@ -1,0 +1,22 @@
+﻿<!--using Microsoft.AspNetCore.Mvc;
+
+namespace ShopxCodeProject
+{
+    public class Create : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+    }
+}-->
+@model ShopX.Models.Product
+<h2>Create Product</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <label>Name</label><input asp-for="Name" />
+    <label>Price</label><input asp-for="Price" />
+    <label>Description</label><textarea asp-for="Description"></textarea>
+    <label>Image</label><input type="file" name="image" />
+    <button type="submit">Create</button>
+</form>

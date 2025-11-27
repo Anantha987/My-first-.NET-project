@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="ShopxCodeProject">
+    <resource name="FSharpSignatureData.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpOptimizationData.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.ShopxCodeProject" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.ShopxCodeProject" action="remove"></resource>
+  </assembly>
+</linker>

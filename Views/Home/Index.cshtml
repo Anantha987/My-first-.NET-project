@@ -1,0 +1,32 @@
+﻿<!--@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.-->
+@model IEnumerable<ShopxCodeProject.Models.Product>
+
+    <h2>Welcome to ShopX</h2>
+
+    <p>
+        <a href="/Account/Login">Login</a> |
+        <a href="/Account/Register">Register</a>
+    </p>
+
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+        </tr>
+
+        @foreach (var product in Model)
+        {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.Description</td>
+        </tr>
+        }
+    </table>

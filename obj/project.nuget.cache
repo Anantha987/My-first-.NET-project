@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "dULzXRqsW80=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thadi\\source\\repos\\ShopxCodeProject\\ShopxCodeProject\\ShopxCodeProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thadi\\.nuget\\packages\\fsharp.core\\10.0.100\\fsharp.core.10.0.100.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\10.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.10.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0\\microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0\\microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0\\microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
+    "C:\\Users\\thadi\\.nuget\\packages\\microsoft.extensions.dependencymodel\\10.0.0\\microsoft.extensions.dependencymodel.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
